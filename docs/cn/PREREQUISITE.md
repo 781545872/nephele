@@ -16,6 +16,6 @@
 
 ## Installing GraphicsMaigck
 
-    随着Nephele开源版本进度的推进，GraphicsMagick或将不再是必要的环境因子，转而作为一款插件存在。
+随着Nephele开源版本进度的推进，GraphicsMagick或将不再是必要的环境因子，转而作为一款插件存在。
     
-    但目前，[安装GraphicsMagick](https://github.com/phyxdown/nephele/tree/deploy/thirdparty/graphicsmagick)依然是必要的，Nephele也将默认调用GraphicsMagick处理图片。
+但目前，[安装GraphicsMagick](https://github.com/phyxdown/nephele/tree/deploy/thirdparty/graphicsmagick)依然是必要的，Nephele也将默认调用GraphicsMagick处理图片。
