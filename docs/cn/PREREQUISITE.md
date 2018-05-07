@@ -6,11 +6,9 @@
 
 **下面以在Centos7上安装go1.10.2为例**
 
-1.在获取go1.10.2.linux-amd64.tar.gz (126MB)的前提下，输入以下命令：
+1.在获取go1.10.2.linux-amd64.tar.gz (126MB)的前提下，输入以下命令(通常来说要加sudo)：
 
     % tar -C /usr/local -xzf go1.10.2.linux-amd64.tar.gz  
-
-(这个命令通常来说要加sudo)
 
 2.把/usr/local/go/bin添加到环境变量PATH。为此你可以将下面这行加入到/etc/profile或者$HOME/.profile中去。
 
