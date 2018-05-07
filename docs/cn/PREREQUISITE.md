@@ -4,7 +4,8 @@
 
 从[https://golang.org/dl/](https://golang.org/dl/)下载安装包，并从[https://golang.org/doc/install](https://golang.org/doc/install)了解详细的安装信息。
 
-*下面以在Centos7上安装go1.10.2为例*
+* 下面以在Centos7上安装go1.10.2为例
+
 在获取go1.10.2.linux-amd64.tar.gz (126MB)的前提下，输入以下命令：
 
     % tar -C /usr/local -xzf go1.10.2.linux-amd64.tar.gz  
