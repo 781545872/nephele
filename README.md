@@ -28,9 +28,11 @@
   	  	
 ## 指导
 
-  想要快速启动nephele简单图片服务并了解其相关功能的，参阅 [The Example Nephele Program]()
+  如果你没有明确自己需要什么，参阅[Getting Started]()
 
-  简单图片服务不能满足全部需求的，参阅[Pluggable Framework of Nephele]()
+  需要快速启动现成的图片服务并了解其相关功能的，参阅[The Example Nephele Program]()
+
+  示例图片服务不能满足全部需求，需要自定化的，参阅[Pluggable Framework of Nephele]()
 
   现成的插件无法满足需求，需要开发插件的，参阅[How to Deploy A Plugin for Nephele]()。
 
